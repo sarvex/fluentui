@@ -98,10 +98,11 @@ extends:
               image: '1ES-PT-Ubuntu-20.04'
               os: linux
             templateContext:
-              outputs:
-                - output: pipelineArtifact
-                  targetPath: $(System.DefaultWorkingDirectory)/apps/pr-deploy-site/dist
-                  artifactName: web
+              # Temporary disable because we have a false positive with Virus scanning and we can't disable that :(
+              # outputs:
+              #   - output: pipelineArtifact
+              #     targetPath: $(System.DefaultWorkingDirectory)/apps/pr-deploy-site/dist
+              #     artifactName: web
             steps:
               - template: .devops/templates/tools.yml@self
 
