@@ -35,11 +35,11 @@
     "@fluentui/fluent2-theme": "^8.107.46",
     "@fluentui/react": "^8.112.4",
     "@fluentui/react-components": "^9.37.0",
-    "@fluentui/react-icons": "^2.0.217",
+    "@fluentui/react-icons": "2.0.217",
     "@fluentui/react-theme": "^9.1.14",
     "@fluentui/react-utilities": "^9.15.1",
-    "@griffel/react": "^1.5.14",
-    "@swc/helpers": "^0.5.1"
+    "@griffel/react": "1.5.14",
+    "@swc/helpers": "0.5.1"
   },
   "peerDependencies": {
     "@types/react": ">=16.14.0 <19.0.0",

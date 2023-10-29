@@ -5,16 +5,16 @@
   "author": "Oleksandr Fediashov <a@fedyashov.com>",
   "bugs": "https://github.com/microsoft/fluentui/issues",
   "dependencies": {
-    "@babel/runtime": "^7.10.4"
+    "@babel/runtime": "7.23.2"
   },
   "devDependencies": {
     "@fluentui/eslint-plugin": "*",
     "@fluentui/scripts-babel": "*",
     "@fluentui/scripts-gulp": "*",
     "@fluentui/scripts-jest": "*",
-    "@types/simulant": "^0.2.0",
-    "lerna-alias": "^3.0.3-0",
-    "simulant": "^0.2.2"
+    "@types/simulant": "0.2.0",
+    "lerna-alias": "3.0.3-0",
+    "simulant": "0.2.2"
   },
   "files": [
     "dist"

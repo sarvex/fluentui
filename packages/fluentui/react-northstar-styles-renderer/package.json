@@ -4,14 +4,14 @@
   "version": "0.66.4",
   "bugs": "https://github.com/microsoft/fluentui/issues",
   "dependencies": {
-    "@babel/runtime": "^7.10.4",
+    "@babel/runtime": "7.23.2",
     "@fluentui/styles": "^0.66.4"
   },
   "devDependencies": {
     "@fluentui/eslint-plugin": "*",
     "@fluentui/scripts-babel": "*",
     "@fluentui/scripts-gulp": "*",
-    "lerna-alias": "^3.0.3-0"
+    "lerna-alias": "3.0.3-0"
   },
   "files": [
     "dist"

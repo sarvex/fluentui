@@ -30,14 +30,14 @@
     "@fluentui/scripts-tasks": "*"
   },
   "dependencies": {
-    "@babel/core": "^7.10.4",
-    "@babel/generator": "^7.12.13",
-    "@babel/helper-plugin-utils": "^7.12.13",
-    "@babel/template": "^7.12.13",
-    "@babel/traverse": "^7.12.13",
-    "@emotion/hash": "^0.8.0",
-    "@swc/helpers": "^0.5.1",
-    "find-up": "^5.0.0"
+    "@babel/core": "7.23.2",
+    "@babel/generator": "7.23.0",
+    "@babel/helper-plugin-utils": "7.22.5",
+    "@babel/template": "7.22.15",
+    "@babel/traverse": "7.23.2",
+    "@emotion/hash": "0.8.0",
+    "@swc/helpers": "0.5.1",
+    "find-up": "5.0.0"
   },
   "peerDependencies": {
     "@fluentui/global-context": "9.0.0-beta.48"

@@ -30,7 +30,7 @@
     "@fluentui/set-version": "^8.2.12",
     "@fluentui/style-utilities": "^8.9.19",
     "@fluentui/utilities": "^8.13.20",
-    "tslib": "^2.1.0"
+    "tslib": "2.5.0"
   },
   "exports": {
     ".": {

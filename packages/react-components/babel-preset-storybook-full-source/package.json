@@ -26,10 +26,10 @@
     "@fluentui/scripts-tasks": "*"
   },
   "dependencies": {
-    "@babel/core": "^7.10.4",
-    "@swc/helpers": "^0.5.1",
+    "@babel/core": "7.23.2",
+    "@swc/helpers": "0.5.1",
     "prettier": "2.8.8",
-    "pkg-up": "^3.1.0"
+    "pkg-up": "3.1.0"
   },
   "exports": {
     ".": {

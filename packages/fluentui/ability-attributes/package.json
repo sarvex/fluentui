@@ -5,12 +5,12 @@
   "author": "Marat Abdullin <marata@microsoft.com>",
   "bugs": "https://github.com/microsoft/fluentui/issues",
   "dependencies": {
-    "ability-attributes": "^0.0.8"
+    "ability-attributes": "0.0.8"
   },
   "devDependencies": {
     "@fluentui/scripts-babel": "*",
     "@fluentui/scripts-gulp": "*",
-    "ability-attributes-generator": "^0.0.8"
+    "ability-attributes-generator": "0.0.8"
   },
   "files": [
     "dist"

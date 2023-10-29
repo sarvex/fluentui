@@ -30,7 +30,7 @@
   "dependencies": {
     "@fluentui/theme": "^2.6.37",
     "@fluentui/set-version": "^8.2.12",
-    "tslib": "^2.1.0"
+    "tslib": "2.5.0"
   },
   "exports": {
     ".": {

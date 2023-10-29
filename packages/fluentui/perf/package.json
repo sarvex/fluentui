@@ -4,12 +4,12 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "@babel/polyfill": "^7.10.4",
+    "@babel/polyfill": "7.12.1",
     "@fluentui/docs": "*",
     "@fluentui/eslint-plugin": "*",
     "@fluentui/react-northstar": "*",
-    "lodash": "^4.17.15",
-    "minimatch": "^3.0.4"
+    "lodash": "4.17.21",
+    "minimatch": "3.0.5"
   },
   "devDependencies": {
     "@fluentui/scripts-babel": "*",

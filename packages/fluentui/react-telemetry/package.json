@@ -5,10 +5,10 @@
   "author": "Oleksandr Fediashov <a@fedyashov.com>",
   "bugs": "https://github.com/microsoft/fluentui/issues",
   "dependencies": {
-    "@babel/runtime": "^7.10.4",
+    "@babel/runtime": "7.23.2",
     "@fluentui/react-bindings": "^0.66.4",
     "@fluentui/react-component-event-listener": "^0.66.4",
-    "lodash": "^4.17.15",
+    "lodash": "4.17.21",
     "react-table": "^7.1.0"
   },
   "devDependencies": {
@@ -16,7 +16,7 @@
     "@fluentui/scripts-babel": "*",
     "@fluentui/scripts-gulp": "*",
     "@types/react-table": "^7.0.19",
-    "lerna-alias": "^3.0.3-0"
+    "lerna-alias": "3.0.3-0"
   },
   "files": [
     "dist"

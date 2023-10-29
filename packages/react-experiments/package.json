@@ -29,7 +29,7 @@
   "devDependencies": {
     "@fluentui/common-styles": "*",
     "@fluentui/eslint-plugin": "*",
-    "@types/deep-assign": "^0.1.1",
+    "@types/deep-assign": "0.1.1",
     "@types/prop-types": "15.7.1",
     "@types/react-addons-test-utils": "0.14.18",
     "@fluentui/jest-serializer-merge-styles": "*",
@@ -41,7 +41,7 @@
   "dependencies": {
     "@fluentui/react": "^8.112.4",
     "@fluentui/theme": "^2.6.37",
-    "@microsoft/load-themed-styles": "^1.10.26",
+    "@microsoft/load-themed-styles": "1.10.26",
     "@fluentui/example-data": "^8.4.13",
     "@fluentui/foundation-legacy": "^8.2.46",
     "@fluentui/font-icons-mdl2": "^8.5.26",
@@ -50,9 +50,9 @@
     "@fluentui/set-version": "^8.2.12",
     "@fluentui/style-utilities": "^8.9.19",
     "@fluentui/utilities": "^8.13.20",
-    "deep-assign": "^2.0.0",
-    "prop-types": "^15.7.2",
-    "tslib": "^2.1.0"
+    "deep-assign": "2.0.0",
+    "prop-types": "15.8.1",
+    "tslib": "2.5.0"
   },
   "peerDependencies": {
     "@types/react": ">=16.8.0 <19.0.0",

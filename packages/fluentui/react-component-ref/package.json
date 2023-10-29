@@ -5,7 +5,7 @@
   "author": "Oleksandr Fediashov <olfedias@microsoft.com>",
   "bugs": "https://github.com/microsoft/fluentui/issues",
   "dependencies": {
-    "@babel/runtime": "^7.10.4",
+    "@babel/runtime": "7.23.2",
     "react-is": "^17.0.2"
   },
   "devDependencies": {
@@ -13,7 +13,7 @@
     "@fluentui/scripts-babel": "*",
     "@fluentui/scripts-gulp": "*",
     "@fluentui/scripts-jest": "*",
-    "lerna-alias": "^3.0.3-0"
+    "lerna-alias": "3.0.3-0"
   },
   "files": [
     "dist"

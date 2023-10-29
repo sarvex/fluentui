@@ -26,7 +26,7 @@
     "@fluentui/common-styles": "*",
     "@fluentui/eslint-plugin": "*",
     "@fluentui/react-monaco-editor": "*",
-    "write-file-webpack-plugin": "^4.1.0",
+    "write-file-webpack-plugin": "4.5.0",
     "@fluentui/scripts-tasks": "*",
     "@fluentui/scripts-webpack": "*"
   },
@@ -46,11 +46,11 @@
     "@fluentui/theme": "*",
     "@fluentui/theme-samples": "*",
     "@fluentui/utilities": "*",
-    "@microsoft/load-themed-styles": "^1.10.26",
-    "office-ui-fabric-core": "^11.0.0",
+    "@microsoft/load-themed-styles": "1.10.26",
+    "office-ui-fabric-core": "11.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "tslib": "^2.1.0",
+    "tslib": "2.5.0",
     "whatwg-fetch": "2.0.4"
   }
 }

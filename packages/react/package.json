@@ -41,7 +41,7 @@
     "@fluentui/react-conformance": "*",
     "@fluentui/test-utilities": "*",
     "@fluentui/webpack-utilities": "*",
-    "office-ui-fabric-core": "^11.0.0",
+    "office-ui-fabric-core": "11.0.1",
     "@fluentui/scripts-api-extractor": "*",
     "@fluentui/scripts-jest": "*",
     "@fluentui/scripts-tasks": "*",
@@ -60,8 +60,8 @@
     "@fluentui/style-utilities": "^8.9.19",
     "@fluentui/theme": "^2.6.37",
     "@fluentui/utilities": "^8.13.20",
-    "@microsoft/load-themed-styles": "^1.10.26",
-    "tslib": "^2.1.0"
+    "@microsoft/load-themed-styles": "1.10.26",
+    "tslib": "2.5.0"
   },
   "peerDependencies": {
     "@types/react": ">=16.8.0 <19.0.0",

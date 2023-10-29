@@ -78,8 +78,8 @@
     "@fluentui/react-text": "^9.3.44",
     "@fluentui/react-virtualizer": "9.0.0-alpha.54",
     "@fluentui/react-tree": "^9.4.8",
-    "@griffel/react": "^1.5.14",
-    "@swc/helpers": "^0.5.1",
+    "@griffel/react": "1.5.14",
+    "@swc/helpers": "0.5.1",
     "@fluentui/react-message-bar": "^9.0.3"
   },
   "peerDependencies": {

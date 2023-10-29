@@ -12,9 +12,9 @@
   "dependencies": {
     "@fluentui/react": "*",
     "@fluentui/react-components": "*",
-    "@fluentui/react-icons": "^2.0.217",
+    "@fluentui/react-icons": "2.0.217",
     "@fluentui/web-components": "*",
-    "@microsoft/fast-element": "^1.11.1",
+    "@microsoft/fast-element": "1.11.1",
     "afterframe": "1.0.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
